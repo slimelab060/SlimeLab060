@@ -22,5 +22,4 @@
 <p align="left">
 <a href="https://twitter.com/Blue_Sky_060sub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanikamu" height="30" width="40" /></a>
 </p>
-
-
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Blue_Sky_060sub?color=009ce1&logo=twitter&style=for-the-badge">
