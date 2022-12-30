@@ -9,7 +9,6 @@
 - 🌱 I’am currently learning **Vue3, Nuxt3**    
 - ⚡ My nicknames are disparate because I divide them by field.  
 - 💻 This is currently the most active repository. [Konosubainfo_Design](https://github.com/slimelab060/Konosubainfo_Design)
-- 👨‍💻 I am currently working on my own website.
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=slimelab060&hide=contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/slimelab060/)
