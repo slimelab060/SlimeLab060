@@ -6,7 +6,7 @@
 <h3>I'm enjoying developing it relaxedly!</h3>
 
 - 🔭 I’am preparing to create an information summary site.  
-- 🌱 I’am currently learning **Vue3, Nuxt3**    
+- 🌱 I’am currently learning **react, Next.js**    
 - ⚡ My nicknames are disparate because I divide them by field.  
 - 💻 This is currently the most active repository. [Konosubainfo_Design](https://github.com/slimelab060/Konosubainfo_Design)
 
