@@ -2,7 +2,7 @@
 🔭 I’am preparing to create an information summary site.  
 🌱 I’am currently learning react, Next.js  
 ⚡ My nicknames are disparate because I divide them by field.  
-💻 This is currently the most active repository. [Konosubainfo_Design](https://github.com/slimelab060/Konosubainfo_Design)
+💻 This is currently the most active repository. [Konosubainfonextjs](https://github.com/slimelab060/konosubainfonextjs))
 
 # 💻 Tech Stack:
 ### Language:
