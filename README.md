@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’am preparing to create an information summary site.  
 ⚡ My nicknames are disparate because I divide them by field.  
 
 # 💻 Tech Stack:
