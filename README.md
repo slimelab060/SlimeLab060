@@ -1,7 +1,7 @@
-# 💫 About Me:
-⚡ My nicknames are disparate because I divide them by field.  
 
-# 💻 Tech Stack:
+**Simple code is best.**  
+
+## 💻 Tech Stack:
 ### Language:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeLab060&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM 使用ツール ( https://gprm.itsvg.in ) -->
